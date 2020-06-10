@@ -28,6 +28,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae553e33e96f3734e8773deb6463e1ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  column: 0
+  row: 0
+  targetX: 0
+  targetY: 0
   swipeAngle: 0
 --- !u!1001 &2092411688359084917
 PrefabInstance:
@@ -55,6 +59,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Yellow Dot Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4825904907806408022, guid: cf6cb57bbc63d234fb8032c9e36705ee,
+        type: 3}
+      propertyPath: m_TagString
+      value: Yellow
       objectReference: {fileID: 0}
     - target: {fileID: 6214683779881395976, guid: cf6cb57bbc63d234fb8032c9e36705ee,
         type: 3}
