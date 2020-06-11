@@ -290,6 +290,8 @@ MonoBehaviour:
   - {fileID: 8696315279798427129, guid: a06237037a4c5fc4b947acaf7e6c2230, type: 3}
   - {fileID: 3010452082472004092, guid: 8d64551667791d94e855161589ac45d0, type: 3}
   - {fileID: 6913222970019790371, guid: 54a7a85294249a349a990c80a0dbdd8c, type: 3}
+  destroyEffect: {fileID: 4205008976196048956, guid: af7f8eae03ef0304b9c9977c6f30877e,
+    type: 3}
 --- !u!4 &1482006112
 Transform:
   m_ObjectHideFlags: 0
