@@ -19,6 +19,10 @@ public class Dot : MonoBehaviour
     public float swipeAngle = 0;
     public float swipeResist = 1f;
     private Vector2 tempPos;
+    public bool ColumnBomb;
+    public bool RowBomb;
+    public GameObject rowArrow;
+    public GameObject columnArrow;
 
     // Start is called before the first frame update
     void Start()
